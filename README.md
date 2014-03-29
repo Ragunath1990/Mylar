@@ -1,4 +1,8 @@
-Note: Just use the "public" branch to be have a more current version of mylar.
+# Note 
+
+1. Just use the "public" branch to be have a more current version of mylar.
+2. My upstream is from git://g.csail.mit.edu/mylar
+3. The missing piece of the document at their website is about their Kerberos (server) implementation.
 
 # Mylar
 
