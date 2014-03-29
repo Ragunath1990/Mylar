@@ -1,4 +1,4 @@
-Note: Just use the "public" branch to be more current.
+Note: Just use the "public" branch to be have a more current version of mylar.
 
 # Mylar
 
