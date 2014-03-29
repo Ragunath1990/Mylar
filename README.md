@@ -1,3 +1,5 @@
+Note: Just use the "public" branch.
+
 # Mylar
 
 Mylar is a platform for building web applications that protects data confidentiality against attackers who fully compromise the servers.
