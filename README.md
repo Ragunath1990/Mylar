@@ -1,4 +1,7 @@
-Note: Just use the "public" branch to be have a more current version of mylar.
+# Note 
+
+1. Just use the "public" branch to be have a more current version of mylar.
+2. My upstream is from git://g.csail.mit.edu/mylar
 
 # Mylar
 
