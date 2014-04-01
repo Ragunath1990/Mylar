@@ -3,7 +3,6 @@
 1. Just use the "public" branch to be have a more current version of mylar.
 2. My upstream is from git://g.csail.mit.edu/mylar
 3. Github has a statistical overview on the code
-4. I will look at doing some hooks to automate this, when i have the time
 
 # Mylar
 
